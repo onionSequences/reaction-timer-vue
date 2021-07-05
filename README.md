@@ -1,5 +1,5 @@
 # reaction-timer
-
+See [LIVE DEMO](https://onionsequences.github.io/reaction-timer-vue/)
 ## Project setup
 ```
 npm install
